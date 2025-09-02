@@ -1,0 +1,2 @@
+# Real-Time-Chat-App
+A Real-Time Chat Application built with React.js, Node.js, WebSockets (Socket.io), and MongoDB.  Supports one-on-one and group chats with secure message encryption, read receipts, and online status tracking.  Includes user authentication and a responsive interface for seamless communication on both desktop and mobile devices.
